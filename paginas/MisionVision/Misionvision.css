@@ -43,6 +43,12 @@ body{
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
 }
+#Tarjeta1 h1{
+    font-size: 3rem;
+}
+#Tarjeta2 h1{
+    font-size: 3rem;
+}
 #Tarjeta2{
     background-color: rgb(5, 27, 41);
     color: white;
